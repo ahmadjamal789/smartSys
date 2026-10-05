@@ -20,7 +20,7 @@
 | [1.5V-6V 0.3A 16000RPM Mini DC Motor Micro DC Motor for DIY Toys Hobbies Smart Car MOTOR 130 Small Motor](https://www.aliexpress.com/item/1005007670913582.html?mp=1&pdp_npi=6%40dis%21NGN%21NGN+659.71%21NGN+606.58%21%21NGN+594.40%21%21%21%4021038db317911586545122487e13b3%2112000041733110219%21ct%21NG%218335485199%21%212%210%21) | ... | 3 | $0.41 | $1.23 | [AliExpress](https://www.aliexpress.com/item/1005007670913582.html?mp=1&pdp_npi=6%40dis%21NGN%21NGN+659.71%21NGN+606.58%21%21NGN+594.40%21%21%21%4021038db317911586545122487e13b3%2112000041733110219%21ct%21NG%218335485199%21%212%210%21) |
 | [MT3608 Adjustable Boost Module DC-DC Step Up Converter Module 2A Max 2V-24V To 5V 9V 12V 28V Booster Power Supply B](https://www.aliexpress.com/item/1005009806778521.html?mp=1&pdp_npi=6%40dis%21NGN%21NGN+5562.00%21NGN+2781.00%21%21NGN+2725.66%21%21%21%4021038db317911588372214394e13b3%2112000050236436845%21ct%21NG%218335485199%21%211%210%21) | To increase the battery voltage | 1 | $1.89 | $1.89 | [AliExpress](https://www.aliexpress.com/item/1005009806778521.html?mp=1&pdp_npi=6%40dis%21NGN%21NGN+5562.00%21NGN+2781.00%21%21NGN+2725.66%21%21%21%4021038db317911588372214394e13b3%2112000050236436845%21ct%21NG%218335485199%21%211%210%21) |
 | **Parts subtotal** | — | — | — | **$27.48** | — |
-| **Tax & shipping** | — | — | — | **$2.43** | — |
-| **Total** | — | — | — | **$29.91** | — |
+| **Tax & shipping** | — | — | — | **$2.60** | — |
+| **Total** | — | — | — | **$30.08** | — |
 
-$0.09 left of the tier's funding.
+**$0.08 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
