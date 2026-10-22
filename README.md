@@ -126,6 +126,5 @@ These values are at the top of `main.cpp`:
 └── README.md
 ```
 
-## License
+<img width="1040" height="780" alt="image" src="https://github.com/user-attachments/assets/7e806af6-d343-4eb2-829c-bb26099fe0dc" />
 
-Add your preferred license here (for example MIT).
